@@ -157,4 +157,9 @@ main section {
   font-size: 30px;
   font-weight: 700;
 }
-/* Module - 5: video no: 2 */
+.resume-container{
+  display: flex;
+  gap: 70px;
+}
+
+/* Module - 5: video no: 6 */
