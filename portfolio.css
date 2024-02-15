@@ -161,7 +161,7 @@ main section {
   display: flex;
   gap: 70px;
 }
-.resume-item-institute{
+.resume-item-institute {
   margin-bottom: 20px;
   margin-top: 0px;
 }
@@ -181,12 +181,20 @@ main section {
   margin-bottom: 10px;
 }
 
-.resume-container hr{
+.resume-container hr {
   margin: 30px;
 }
-.download-cv{
+.download-cv {
   text-align: center;
   margin-top: 50px;
+}
+
+/* footer styles */
+footer {
+  display: flex;
+  background: rgb(255, 248, 243);
+  margin-top: 100px;
+  padding: 130px 200px;
 }
 
 /* Module - 5: video no: 6 */
